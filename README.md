@@ -1,2 +1,2 @@
-# astro
+# Astro
 Starting to learn Astro
